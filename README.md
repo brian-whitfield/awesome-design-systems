@@ -46,6 +46,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [IBM Carbon](http://carbondesignsystem.com/) | 👍 | 👍 | 👍 |  |
 | [IBM Design Language](https://www.ibm.com/design/language/) | 👍 | 👍 |  |  |
 | [IBM Northstar](https://www.ibm.com/standards/web/) | 👍 | 👍 |  |  |
+| [Ionic Framework](https://ionicframework.com/docs/) | 👍 |  |  |  |
 | [Intuit Harmony](http://harmony.intuit.com/) | 👍 | 👍 | 👍 |  |
 | [JetBrains Ring UI](http://www.jetbrains.org/ring-ui/index.html) | 👍 |  |  |  |
 | [Lexicon](https://lexicondesign.io/) | 👍 | 👍 |  |  |
